@@ -1,2 +1,2 @@
-# Design-Patterns
+# DesignPatternsPHP
 Design Patterns learning notes
