@@ -138,7 +138,7 @@ switch (intval($_GET['type'])) {
 /**
  * 现金收费抽象类
  *
- * @author     <quan.zhang@guanaitong.com>
+ * @author     <dendi875@163.com>
  * @createDate 2018-03-24 14:17:35
  * @copyright  Copyright (c) 2018 guanaitong.com
  */
@@ -156,7 +156,7 @@ abstract class CashSuper
 /**
  * 打折收费类
  *
- * @author     <quan.zhang@guanaitong.com>
+ * @author     <dendi875@163.com>
  * @createDate 2018-03-24 14:20:14
  * @copyright  Copyright (c) 2018 guanaitong.com
  */
@@ -185,7 +185,7 @@ class CashRebate extends CashSuper
 /**
  * 返利收费类
  *
- * @author     <quan.zhang@guanaitong.com>
+ * @author     <dendi875@163.com>
  * @createDate 2018-03-24 14:24:58
  * @copyright  Copyright (c) 2018 guanaitong.com
  */
@@ -230,7 +230,7 @@ class CashReturn extends CashSuper
 /**
  * 现金环境类
  *
- * @author     <quan.zhang@guanaitong.com>
+ * @author     <dendi875@163.com>
  * @createDate 2018-03-24 14:29:06
  * @copyright  Copyright (c) 2018 guanaitong.com
  */
